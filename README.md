@@ -12,7 +12,7 @@ Example setup for Amazon Connect chat interactive message feature [Lex Bot V1]
 
 #### Files
 
-[![Download Lambda ZIP](https://img.shields.io/badge/Download-ZIP-blue.svg?logo=aws-lambda&logoColor=orange&label=Download%20Lambda&color=orange)](https://github.com/spencerlepine/amazon-connect-interactive-message-chat-infra-lex-v1/blob/main/exports/)
+[![Download Lambda ZIP](https://img.shields.io/badge/Download-ZIP-blue.svg?logo=aws-lambda&logoColor=orange&label=Download%20Lambda&color=orange)](https://github.com/spencerlepine/amazon-connect-interactive-message-chat-infra-lex-v1/blob/main/exports/InteractiveMessge_LambdaCodeHook_LexV1Export.zip)
 
 [![Download Lex Bot ZIP](https://img.shields.io/badge/Download-ZIP-blue.svg?logo=amazon-aws&logoColor=lightgray&label=Download%20Lex%20Bot%20Export&color=blue)](https://github.com/spencerlepine/amazon-connect-interactive-message-chat-infra-lex-v1/blob/main/exports/InteractiveMessge_LambdaCodeHook_LexV1Export.zip)
 
