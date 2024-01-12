@@ -28,6 +28,10 @@ Example setup for Amazon Connect chat interactive message feature [Lex Bot V1]
 
 ![image](./InteractiveMessageFlowChart.png)
 
+### Chat Usage
+
+![image](./InteractiveMessageChatFlow.png)
+
 ## Specifications
 
 - Lex Bot V1 support
