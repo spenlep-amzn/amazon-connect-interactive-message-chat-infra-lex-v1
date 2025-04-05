@@ -1,3 +1,9 @@
+**📢 Annoucement:** This repository is no longer maintained. Amazon Lex V1 will reach end of life on September 15, 2025. Please follow this migration guide: https://docs.aws.amazon.com/lexv2/latest/dg/migration.html
+
+![Maintenance](https://img.shields.io/badge/repo-inactive-red)
+
+---
+
 # Amazon Connect Interactive Message Chat Infra [Lex V1]
 
 Example setup for Amazon Connect chat interactive message feature [Lex Bot V1]
